@@ -2,9 +2,23 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Here is the list of my lectures (The pdf version of the slides are lacking many animations!)
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
-Organize your courses by years, topics, or universities, however you like!
+
+* "Perception for autononous and connected vehicles" (PD803 - KAIST - Fall Semester 2019) <span style="color:blue">Best Teaching Award from the Department of Future Vehicle </span>:
+	* Lecture 1: Introduction
+	* Lecture 2: ICP
+	* Lecture 3/4: Cameras 
+	* Lecture 5/6: Keypoints detection, description & matching
+	* Lecture 7/8: Epipolar Geometry
+	* Lecture 9/10: Triangulation & RANSAC
+	* Lecture 11: Stereo Vision
+	* Lecture 12: Visual Odometry
+	* Lecture 13: Object Recognition
+	* Lecture 14: Connected vehicles
+
+* 
+
+
